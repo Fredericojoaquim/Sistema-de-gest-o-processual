@@ -1,0 +1,12 @@
+.mytable{
+    min-height: 700px!important;
+    
+}
+
+.container-fluid, .section__content {
+    width: 100%;
+}
+
+input[type="search"]{
+    border-radius: 4px;
+}
